@@ -1,0 +1,7 @@
+body{
+    background-image: linear-gradient(
+    to bottom,
+    rgba(255, 7, 222, 0.247),
+    rgba(1, 7, 12, 0.781)
+  ), url("https://th.bing.com/th/id/R.fa8e4496dfbca412c02155e61c75a26b?rik=cbsi7jH2dGYmAA&pid=ImgRaw&r=0");
+}
